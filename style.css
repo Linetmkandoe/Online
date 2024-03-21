@@ -1,0 +1,79 @@
+.container{
+    background-color:gray;
+    color: black;
+  }
+  
+  .image5{
+  
+  }.topnav{
+      display: flex;
+      gap: 100px;
+      justify-content: space-around;
+  }
+  .icons{
+      width: 30px;
+      height: 25px;
+      display: flex;
+      gap: 20px;
+      justify-content: space-around;
+  }
+  .nav{
+      gap: 40px;
+  }
+  .statement{
+      display: flex;
+      gap: 20px;
+      
+  }
+  #image1
+  button{
+      background-color: purple;
+      color: white;
+      width: 100px;
+      height: 30px;
+      margin-left: 150px;
+  }
+  .images{
+      display: flex;
+      gap: 30px;
+      justify-content: space-around;
+      
+      
+  }
+  #image6{
+      height: 300px;
+  
+  }
+  #image7{
+      height: 300px;
+  }
+  #image8{
+  height: 300px;
+  }
+  #image9{
+      height: 300px;
+  
+  }
+  #image10{
+      height: 300px;
+  }
+  #image11{
+      height: 300px;
+  
+  }
+  #image12{
+      height: 300px;
+  }
+  #image13{
+      height: 300px;
+      width: 300px;
+  }
+  .one{
+      display: flex;
+      gap: 30px;
+      padding-left: 40px;
+      justify-content: space-around;
+  }
+  #image13{
+      height: 400px;
+  }
